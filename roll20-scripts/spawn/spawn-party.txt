@@ -1,0 +1,29 @@
+!Spawn {{
+--offset|1,0
+--name|Rastlin (Jonathan)
+}}
+
+!Spawn {{
+--offset|1,1
+--name|Ihas Ankles (Mikey)
+}}
+
+!Spawn {{
+--offset|-1,0
+--name|Capt. Aelwynd Delborn (Jason)
+}}
+
+!Spawn {{
+--offset|-1,1
+--name|Olfgar (Karl)
+}}
+
+!Spawn {{
+--offset|1,-1
+--name|Flakor ‘Fletch’ Folkor (Mark)
+}}
+
+!Spawn {{
+--offset|-1,-1
+--name|Fennorin (Patrick)
+}}

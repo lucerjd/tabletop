@@ -1,0 +1,4 @@
+!Spawn {{
+--name|Fenn-Wolf
+--offset|1,0
+}}
