@@ -1,0 +1,4 @@
+!Spawn {{
+--name|Wolfgang
+--offset|1,0
+}}
