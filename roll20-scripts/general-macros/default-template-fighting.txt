@@ -1,0 +1,3 @@
+&{template_default} {{name=Longsword}} {{Attack=[[1d8 + @{strength_mod}[STR]]]}}
+
+{{attack=[[1d[[4 + 2 * {6, 10, 14}<@level{level}]]]]}}
