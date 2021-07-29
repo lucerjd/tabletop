@@ -1,0 +1,10 @@
+!power {{
+--name|Mirror Image
+--Roll|[[ 1d20 ]]
+--3 Duplicates|6 or higher
+--2 Duplicates|8 or higher
+--1 Duplicate|11 or higher
+--Duplicate AC|10 + Dex Mod (@{dexterity_bonus})
+--On hit|The duplicate is destroyed.
+--On miss|Ignore damage and duplicate lives.
+}}
